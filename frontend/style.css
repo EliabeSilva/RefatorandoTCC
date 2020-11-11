@@ -1,0 +1,16 @@
+@import "css/global.css";
+
+/* Telas */
+/* Registro */
+@import "css/registro/registro.css";
+
+/* Registro Barbearia */
+@import "css/registro_barbearia/registro_barbearia.css";
+
+@import "css/root.css";
+
+@import "css/media-queries.css";
+
+/* Login */
+
+@import "css/login/login.css";
